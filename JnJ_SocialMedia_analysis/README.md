@@ -1,7 +1,7 @@
 # Project Summary
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/NgynTrn0112/UWA_Project/tree/main/JnJ_SocialMedia_analysis)
-[![View Presentation](https://img.shields.io/badge/Canva-View_on_Canva-blue?logo=Canva)](https://www.canva.com/design/DAGwG40FH1s/fhb5mf0NwlBKzfG7AxZAAA/view?utm_content=DAGwG40FH1s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6d9b7c821)
+[![View Presentation](https://img.shields.io/badge/Canva-View_Slide-blue?logo=Canva)](https://www.canva.com/design/DAGwG40FH1s/fhb5mf0NwlBKzfG7AxZAAA/view?utm_content=DAGwG40FH1s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6d9b7c821)
 ## Table of Contents
 1. [Project Background](#project-background)  
 2. [Executive Summary](#executive-summary)  
@@ -96,3 +96,4 @@ We will further learn how the factors drive the engagement
 - Adopting new strategy to follow current trends:
   - Only posting *Photos* and *Videos*: major media platforms are speculated to restraint the organic reach of posts that include **external link**
   - Educating and entertaining are the key areas for content to thrive
+
